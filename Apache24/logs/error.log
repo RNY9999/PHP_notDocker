@@ -1,0 +1,12 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 21032:tid 336] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Fri Mar 22 13:47:16.865652 2024] [mpm_winnt:notice] [pid 21032:tid 336] AH00456: Apache Lounge VS17 Server built: Jan 30 2024 19:01:23
+[Fri Mar 22 13:47:16.865652 2024] [core:notice] [pid 21032:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Mar 22 13:47:16.865652 2024] [mpm_winnt:notice] [pid 21032:tid 336] AH00418: Parent: Created child process 34688
+[Fri Mar 22 13:47:17.091270 2024] [mpm_winnt:notice] [pid 34688:tid 380] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 22 13:48:14.333770 2024] [mpm_winnt:notice] [pid 21032:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 22 13:48:20.454238 2024] [mpm_winnt:notice] [pid 34688:tid 380] AH00364: Child: All worker threads have exited.
+[Fri Mar 22 13:48:20.476559 2024] [mpm_winnt:notice] [pid 21032:tid 336] AH00430: Parent: Child process 34688 exited successfully.
+Starting the 'Apache2.4' service
+(OS 5)アクセスが拒否されました。  : AH10012: Failed to open the 'Apache2.4' service
